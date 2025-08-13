@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.Renviron
+.ipynb_checkpoints/
+.vscode/*
+!.vscode/settings.json
+.DS_Store
+data/
+models/
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+renv/library/
