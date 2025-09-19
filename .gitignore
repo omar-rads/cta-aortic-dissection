@@ -14,3 +14,12 @@ models/
 .Rproj.user/
 *.Rproj
 renv/library/
+data
+*.log
+*.lst
+*.sas7bdat
+*.sas7bcat
+*.sas7bvew
+*.xpt
+work/
+results/
